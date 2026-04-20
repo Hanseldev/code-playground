@@ -9,6 +9,6 @@
 		:srcdoc="srcDoc"
 		class="w-full h-full border-none"
 		sandbox="allow-scripts"
-		title="Preview"
+		title="Live code output preview"
 	></iframe>
 </template>
